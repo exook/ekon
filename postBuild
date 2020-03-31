@@ -1,0 +1,1 @@
+wget -q -O data_edit.csv "https://github.com/exook/ekon/blob/master/data_edit.csv"
